@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  text-align: left;
+  font-family: 'Merriweather', serif;
+  background-color: #E0EBE8;
+}
+h2 {
+  color:#256D85;
+  line-height: 1;
+  margin-top: 30;
+  font-size: 1.625rem;
+  font-family: 'Sacramento', sans-serif;
+}
+hr{
+  border: dotted #EAF6F6 ;
+  border-bottom: none;
+  width: 20px;
+  margin: 30px;
+
+  line-height: 2;
+}
